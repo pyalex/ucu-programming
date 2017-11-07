@@ -38,7 +38,7 @@ public class ObjectFactory {
         return o;
     }
 
-    private <T> void configure(Class<T> type, Object o) {
+    private <T> void configure(Class<T> type, T o) {
         for (ObjectConfigurator configurator: configurators) {
             configurator.configure(type, o);
         }

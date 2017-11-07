@@ -12,7 +12,7 @@ public class RandomIntConfigurator implements ObjectConfigurator {
 
     @Override
     @SneakyThrows
-    public <T> void configure(Class<T> type, Object o) {
+    public <T> void configure(Class<T> type, T o) {
         Set<Field> fields = ReflectionUtils.getAllFields(type, ReflectionUtils.withAnnotation(InjectRandomInt.class));
         for (Field field : fields) {
             InjectRandomInt annotation = field.getAnnotation(InjectRandomInt.class);
