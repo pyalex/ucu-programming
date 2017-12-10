@@ -26,7 +26,7 @@ public class AppConf {
     @Bean
     public SparkConf sparkConf() {
         SparkConf sparkConf = new SparkConf();
-        sparkConf.setAppName("songs");
+        sparkConf.setAppName("Football Match Analyzer");
         sparkConf.setMaster("local[*]");
         return sparkConf;
     }
