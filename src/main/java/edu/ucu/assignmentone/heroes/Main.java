@@ -1,4 +1,4 @@
-package edu.ucu.assigmentone.heroes;
+package edu.ucu.assignmentone.heroes;
 
 public class Main {
     public static void main(String... args) {

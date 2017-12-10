@@ -1,4 +1,4 @@
-package edu.ucu.assigmenttwo.mailsender;
+package edu.ucu.assignmenttwo.mailsender;
 
 @MailCode(value=1)
 public class EmailCallbackMailGenerator implements MailGenerator {

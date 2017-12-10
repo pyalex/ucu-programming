@@ -1,4 +1,4 @@
-package edu.ucu.assigmentone.notswitch;
+package edu.ucu.assignmentone.notswitch;
 
 import java.util.function.Supplier;
 

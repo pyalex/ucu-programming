@@ -1,6 +1,4 @@
-package edu.ucu.assigmentone.guessgame;
-
-import edu.ucu.assigmentone.guessgame.GuessGame;
+package edu.ucu.assignmentone.guessgame;
 
 public class MainClass {
     public static void main(String... args ) {

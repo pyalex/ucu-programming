@@ -1,4 +1,4 @@
-package edu.ucu.assigmenttwo.mySpring;
+package edu.ucu.assignmenttwo.mySpring;
 
 
 public class CleanerImpl implements Cleaner {

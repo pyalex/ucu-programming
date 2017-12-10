@@ -1,4 +1,4 @@
-package edu.ucu.assigmenttwo.mailsender;
+package edu.ucu.assignmenttwo.mailsender;
 
 
 import lombok.AllArgsConstructor;

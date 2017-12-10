@@ -1,4 +1,4 @@
-package edu.ucu.assigmenttwo.http;
+package edu.ucu.assignmenttwo.http;
 
 public enum HttpStatus {
     INFO(100, 199, new InfoHandler()),

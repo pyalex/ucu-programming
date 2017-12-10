@@ -1,4 +1,4 @@
-package edu.ucu.assigmenttwo.mySpring;
+package edu.ucu.assignmenttwo.mySpring;
 
 import lombok.SneakyThrows;
 import org.reflections.Reflections;

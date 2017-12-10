@@ -1,4 +1,4 @@
-package edu.ucu.assigmenttwo.http;
+package edu.ucu.assignmenttwo.http;
 
 import lombok.SneakyThrows;
 import org.fluttercode.datafactory.impl.DataFactory;

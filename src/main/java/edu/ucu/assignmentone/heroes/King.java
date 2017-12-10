@@ -1,4 +1,4 @@
-package edu.ucu.assigmentone.heroes;
+package edu.ucu.assignmentone.heroes;
 
 import java.util.Random;
 

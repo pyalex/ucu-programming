@@ -1,4 +1,4 @@
-package edu.ucu.assigmentone.heroes;
+package edu.ucu.assignmentone.heroes;
 
 public class GameManager {
     static void fight(Character c1, Character c2) {

@@ -1,4 +1,4 @@
-package edu.ucu.assigmenttwo.mySpring;
+package edu.ucu.assignmenttwo.mySpring;
 
 import java.lang.annotation.Retention;
 

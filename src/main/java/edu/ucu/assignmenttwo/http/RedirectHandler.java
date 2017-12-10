@@ -1,4 +1,4 @@
-package edu.ucu.assigmenttwo.http;
+package edu.ucu.assignmenttwo.http;
 
 public class RedirectHandler implements HttpHandler{
     @Override

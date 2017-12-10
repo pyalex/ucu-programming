@@ -1,4 +1,4 @@
-package edu.ucu.assigmentone.guessgame;
+package edu.ucu.assignmentone.guessgame;
 
 import java.util.ArrayList;
 import java.util.Collections;

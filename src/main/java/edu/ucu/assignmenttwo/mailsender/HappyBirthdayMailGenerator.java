@@ -1,4 +1,4 @@
-package edu.ucu.assigmenttwo.mailsender;
+package edu.ucu.assignmenttwo.mailsender;
 
 
 @MailCode(value = 2)
